@@ -7,7 +7,8 @@ This Shellscript will use the standard ```docker system prune``` command but als
 **WARNING**
 Executing this script will stop and delete all Containers, Images, Volumes and Networks.
 
-###Usage 
+### Usage 
+
 Download Shellscript
 
 ```wget https://raw.githubusercontent.com/Isengo1989/docker-cleanup/master/docker-cleanup.sh```
